@@ -11,7 +11,7 @@ body{
     margin:auto;
     height:120px;
     line-height:120px;
-    background:#DE7390;
+    background:#703434;
     color:#fff;
 }
 
@@ -20,7 +20,7 @@ body{
 }
 
 .menu{
-    background-color:#DE7390;
+    background-color:#703434;
     height:50px;
     line-height:50px;
     position:relative;
@@ -58,7 +58,7 @@ body{
 }
 
 .border{
-    border:2px solid #4887b9;
+    border:2px solid #703434;
     margin-top:1pc;
     padding-bottom:1pc;
     padding-left:1pc;
